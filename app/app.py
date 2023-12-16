@@ -387,9 +387,9 @@ def image_support():
         print(file_name)
 
         # Replace these with your actual AWS S3 credentials and bucket information
-        AWS_ACCESS_KEY = 'AKIA4SHWXMHTSGYKIRE7'
-        AWS_SECRET_KEY = 'j/a9x2Z++Iue2i0U0mNE0xbWXYdrfFttKsV7E0/n'
-        BUCKET_NAME = 'errorimagesintel'
+        AWS_ACCESS_KEY = ''
+        AWS_SECRET_KEY = ''
+        BUCKET_NAME = ''
 
         # Replace this with the desired name of the file on S3
         s3_file_name = file_name
@@ -411,7 +411,7 @@ def image_support():
 
             # Use the S3 URI in replicate.run
             output = replicate.run(
-                "yorickvp/llava-13b:e272157381e2a3bf12df3a8edd1f38d1dbd736bbb7437277c8b34175f8fce358",
+                "yorickvp/llava-13b:",
                 input={
                     "image": f"https://{BUCKET_NAME}.s3.amazonaws.com/{s3_file_name}",
                     
