@@ -122,7 +122,8 @@ bash launcher.sh --script=app/app.py --port=<port> --physical_cores=<physical_co
 ```
 
 
-## :computer: Chatbot demo
+## :computer: Chatbot UI
+![Screenshot (363)](https://github.com/Hemachandirant/InteloneAPI_ByteZEN/assets/83321708/1156afde-30cf-4e3f-a587-6bec5f4d550d)
 
     
 
@@ -133,6 +134,6 @@ For any information, feedback or questions, please [contact me][hemac140@gmail.c
 
 
 
-[anas-email]: mailto:ahouzi2000@hotmail.fr
+[hemac-email]: mailto:hemac140@gmail.com
 
 
