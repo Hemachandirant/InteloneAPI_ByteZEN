@@ -37,11 +37,11 @@ The prototype utilizes Huggingface Transformers with large language models, incl
 ![WhatsApp Image 2023-12-12 at 8 17 21 PM](https://github.com/Hemachandirant/InteloneAPI_ByteZEN/assets/83321708/6afe9bf2-a332-4866-afb2-5595ce3c4eab)
 
 # No optimization vs IPEX vs BIGDL
- ![WhatsApp Image 2023-12-12 at 8 17 21 PM](https://github.com/Hemachandirant/InteloneAPI_ByteZEN/assets/83321708/9d3505da-4d87-467e-91da-66bf249a9993)
+![WhatsApp Image 2023-12-16 at 1 03 10 AM](https://github.com/Hemachandirant/InteloneAPI_ByteZEN/assets/83321708/042f084e-5982-40f4-86b8-6b7abea92979)
 
 ### Models
 - Huggingface Transformers [https://huggingface.co/shivani05/Mistral-Finetuned-CPU/tree/main]
-  - LLMs: Mistral-7B, Zephyr-7B
+  - LLMs: Mistral-7B, LaMini-T5-738M
 
 ### Technologies Used
 1. Intel Extension for transformers
@@ -129,11 +129,6 @@ bash launcher.sh --script=app/app.py --port=<port> --physical_cores=<physical_co
 
 ## :mailbox_closed: Contact
 For any information, feedback or questions, please [contact me][hemac140@gmail.com]
-
-
-
-
-
 
 
 
