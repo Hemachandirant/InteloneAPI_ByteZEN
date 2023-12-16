@@ -1,0 +1,23 @@
+{
+  "AzureSpeechResource": {
+    "Region": "eastus",
+    "SubscriptionKey": "40c9a21dddee429b86775c71351c57ad" 
+  },
+  "ICEServer": {
+    "URL": "turn:relay.communication.microsoft.com:3478",
+    "Username": "by running the issue-key-token.py file you can generate a username and credentials",
+    "Credential": "by running the issue-key-token.py file you can generate a username and credentials"
+  },
+  "TTSConfiguration": {
+    "Voice": "en-US-JennyNeural",
+    "CustomVoiceEndpointId": ""
+  },
+  "AvatarConfiguration": {
+    "Character": "lisa",
+    "Style": "casual-sitting",
+    "BackgroundColor": "#FFFFFFFF",
+    "CustomAvatar": false,
+    "TransparentBackground": true,
+    "VideoCrop": false
+  }
+}
