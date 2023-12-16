@@ -21,9 +21,6 @@ The goal of ByteZen is to revolutionize technical support by building an AI-powe
 
 The prototype utilizes Huggingface Transformers with large language models, including Mistral-7B and LLava-13B. Technologies such as Intel Extension for transformers, Intel Analytical Toolkit, Intel Neural Compressor, Intel Distribution for Python, streamlit, Langchain, node.js (Avatar Application), Azure Speech Service, and Ngrok are employed to achieve the project goals.
 
-## Tech Stack
-![image](https://github.com/Hemachandirant/Intel_Hackathon_Customer_Support-oneAPI/assets/83321708/e188e3b5-67e2-4dcd-ad67-58cdfd17408e)
-
 ### Architecture
 ![Architecture](https://github.com/Hemachandirant/Intel_Hackathon_Customer_Support-oneAPI/assets/83321708/2e45c1f6-2b25-48f2-8af6-919af445da90)
 
