@@ -56,7 +56,8 @@ The prototype utilizes Huggingface Transformers with large language models, incl
 
 ### Xenon CPU Utilization during model training:
 
-https://github.com/Hemachandirant/Intel_Hackathon_Customer_Support-oneAPI/assets/83321708/06202406-01e2-4fd4-aee2-57b494b3b3e7
+https://github.com/Hemachandirant/InteloneAPI_ByteZEN/assets/83321708/f3ad700f-d63f-4aef-a819-9e1d0d62a4df
+
 
 ### Training loss and saving the model:
 
