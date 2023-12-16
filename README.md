@@ -48,9 +48,9 @@ The prototype utilizes Huggingface Transformers with large language models, incl
   - LLMs: Mistral-7B, LaMini-T5-738M
 
 ### Technologies Used
-1. Intel Extension for transformers
+1. Intel Extension for Pytorch
 2. Intel Analytical Toolkit
-3. Intel Neural Compressor
+3. BigDL-LLM
 4. Intel Distribution for Python
 5. Streamlit
 6. Langchain
