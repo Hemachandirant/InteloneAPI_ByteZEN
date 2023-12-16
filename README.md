@@ -67,9 +67,6 @@ https://github.com/Hemachandirant/InteloneAPI_ByteZEN/assets/83321708/f3ad700f-d
 
 ![BeFunky-collage](https://github.com/Hemachandirant/Intel_Hackathon_Customer_Support-oneAPI/assets/83321708/ef4653da-1ffe-43d6-ba56-15fd14b4684c)
 
-## :monocle_face: Description
-
-
 ## :scroll: Getting started
 
 1. Start by cloning the repository:  
