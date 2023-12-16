@@ -33,6 +33,14 @@ The prototype utilizes Huggingface Transformers with large language models, incl
 ## Medium Article
 [Revolutionizing Tech Support with Intel AI Toolkits and OneAPI](https://medium.com/@rshivanipriya/revolutionizing-tech-support-with-intel-ai-toolkits-and-oneapi-4cf7027909af)
 
+## Benchmarking
+
+# Pandas Vs Modin
+![WhatsApp Image 2023-12-12 at 8 17 21 PM](https://github.com/Hemachandirant/InteloneAPI_ByteZEN/assets/83321708/6afe9bf2-a332-4866-afb2-5595ce3c4eab)
+
+# No optimization vs IPEX vs BIGDL
+ ![WhatsApp Image 2023-12-12 at 8 17 21 PM](https://github.com/Hemachandirant/InteloneAPI_ByteZEN/assets/83321708/9d3505da-4d87-467e-91da-66bf249a9993)
+
 ### Models
 - Huggingface Transformers [https://huggingface.co/shivani05/Mistral-Finetuned-CPU/tree/main]
   - LLMs: Mistral-7B, Zephyr-7B
