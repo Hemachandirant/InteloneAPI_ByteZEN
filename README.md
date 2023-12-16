@@ -72,7 +72,7 @@ https://github.com/Hemachandirant/Intel_Hackathon_Customer_Support-oneAPI/assets
 
 1. Start by cloning the repository:  
 ```bash
-git clone https://github.com/Hemachandirant/CustomerSupport_OpensourceLLM.git
+[git clone https://github.com/Hemachandirant/CustomerSupport_OpensourceLLM.git](https://github.com/Hemachandirant/InteloneAPI_ByteZEN.git)
 cd llama2-chatbot-cpu
 ```
 2. Create a Python 3.9 conda environment:
